@@ -1,0 +1,23 @@
+[gd_scene load_steps=2 format=3 uid="uid://8r7317n862cq"]
+
+[ext_resource type="Texture2D" uid="uid://d2ncpm2dlquog" path="res://cinnamoroll.webp" id="1_exrer"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Cinnamoroll" type="Sprite2D" parent="."]
+position = Vector2(227, -1)
+scale = Vector2(0.858566, 0.842857)
+texture = ExtResource("1_exrer")
+
+[node name="Cinnamoroll2" type="Sprite2D" parent="."]
+position = Vector2(867, -79)
+scale = Vector2(0.711155, 0.785714)
+texture = ExtResource("1_exrer")
+
+[node name="Cinnamoroll3" type="Sprite2D" parent="."]
+position = Vector2(910, 377)
+texture = ExtResource("1_exrer")
+
+[node name="Cinnamoroll4" type="Sprite2D" parent="."]
+position = Vector2(22, 587)
+texture = ExtResource("1_exrer")
